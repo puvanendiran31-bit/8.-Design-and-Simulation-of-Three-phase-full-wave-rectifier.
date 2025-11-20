@@ -43,7 +43,14 @@ by going to Simulation ⇒ Start
 14.	Analyze and record your inference.
 
 ## Simulation
+<img width="1254" height="606" alt="Screenshot 2025-10-25 120047" src="https://github.com/user-attachments/assets/0070fa6a-f831-48c6-80ac-d88ffd34c30c" />
+
 
 ## Output
+<img width="1264" height="678" alt="Screenshot 2025-10-25 120658" src="https://github.com/user-attachments/assets/60f1debc-46ec-4cc9-ad1b-a08ad7e4f4ad" />
+<img width="1280" height="666" alt="Screenshot 2025-10-25 120718" src="https://github.com/user-attachments/assets/eb501322-b70f-45ea-94ed-8138068c40d3" />
+<img width="1281" height="660" alt="Screenshot 2025-10-25 120902" src="https://github.com/user-attachments/assets/3966c1e7-7778-48f1-a6c4-852c5b737613" />
+
 
 ## Result
+Thus designed, simulated and analysed a three phase full wave rectifier controlled by thyristors using MATLAB Simulink.
